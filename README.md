@@ -22,7 +22,7 @@ Técnico en Programación de Software enfocado en la mejora continua y la resolu
 
 *   **🤖 Tutorbot en n8n:** Desarrollo e implementación de un chatbot de tutoría automatizado utilizando la plataforma n8n. Gestión del flujo de entrada de usuarios (onboarding), configuración de notificaciones y diseño de la lógica de enrutamiento utilizando nodos Switch y Webhooks. *(Enlazar aquí el repositorio)*
 
-### 📫 Conecta conmigo
+### 📫 Contacta conmigo
 
 *   💼 [LinkedIn](https://www.linkedin.com/in/luis-miguel-urbina-meneses-4b0770356)
 *   📧 [migueurbina1234@gmail.com](mailto:migueurbina1234@gmail.com)
